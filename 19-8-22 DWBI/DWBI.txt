@@ -1,0 +1,21 @@
+write few lines about restro surabaya
+Comment on the target segment and the problem statement of the restraunment
+what is consumer consumption pattern
+how BI can help restro to solve its problem
+designing the right marketing stratergy with 4 P's 
+explain the stratergy wrt the case
+what is market basket analysis
+how is it applied to this case study
+------HW-----
+Comment on the measures of market basket analysis
+support confidence and lift wrt association rules for market basket analysis
+explain the dataset in the case study
+under what scenario was the data cleaning process required
+how are the diferrent events within the dataaset analyzed? comment?
+explain  some of the scenarios where aggregation method was for data analysis
+comment on the general summary dashboard, food ref dashboard, event analysis dashboard as created in case using power BI?
+explain the descriptive data analysis done during the fasting month & infer one results
+infer on the results of mar-basket analysis depending on confidence and support measures
+explain in your words how to design a perfect marketk statergy wrt results of data analysis for restro
+comment on the final infrence drawn from the analysis & imp of maonetary & maintainence of dashboard
+
